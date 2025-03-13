@@ -25,5 +25,7 @@ public class NumArray {
 
         System.out.printf("Maior número: %.2f\n", (double) maior);
         System.out.printf("Menor número: %.2f\n", (double) menor);
+
+        sc.close();
     }
 }
